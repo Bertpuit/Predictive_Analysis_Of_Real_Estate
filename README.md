@@ -1,7 +1,7 @@
 # Predictive Analysis of Real Estate Investment Returns
 
 **Presented by: Jan Cichocki and Bertrand Badinga**  
-**Date: [Insert Date]**
+**Date: 1/20/2024**
 
 ## Introduction
 In this project, we aim to develop a machine learning model that predicts Return on Investment (ROI) in real estate. Our focus is on using predictive analysis to assist in making informed decisions in the real estate market.
