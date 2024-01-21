@@ -1,0 +1,82 @@
+PropertyID,Location,Area,SqFt,Age,YearsSinceRenovation,NumberOfRooms,NumberOfBathrooms,LocalSchoolQuality,PropertyType,YearBuilt,CrimeRate,MarketValue,ROI
+1,Suburban,1200,10,0,3,1,4,4,Single Family,2012,Low,300000,0.05
+2,Urban,800,15,5,2,1,3,3,Apartment,2006,Moderate,220000,0.04
+3,Rural,1800,5,0,4,2,5,5,Single Family,2015,Low,275000,0.06
+4,Suburban,1500,20,10,3,2,3,4,Single Family,2000,Low,320000,0.07
+5,Urban,950,3,0,2,1,4,4,Townhouse,2018,High,280000,0.03
+6,Suburban,1100,8,2,4,3,2,5,Single Family,2014,Low,295000,0.05
+7,Urban,850,18,8,1,1,2,2,Apartment,2003,Moderate,225000,0.04
+8,Rural,1600,6,1,3,3,4,5,Single Family,2016,Low,260000,0.06
+9,Suburban,1400,22,12,2,2,2,3,Single Family,1999,Low,315000,0.07
+10,Urban,1000,4,0,2,1,3,4,Townhouse,2017,High,285000,0.03
+11,Suburban,1250,9,1,3,2,3,4,Single Family,2013,Low,305000,0.05
+12,Urban,775,16,6,1,2,1,2,Apartment,2005,Moderate,215000,0.04
+13,Rural,1850,7,0,4,2,4,5,Single Family,2014,Low,280000,0.06
+14,Suburban,1550,21,11,2,3,2,3,Single Family,2001,Low,330000,0.07
+15,Urban,925,2,0,1,1,4,4,Townhouse,2019,High,275000,0.03
+16,Suburban,1300,7,3,2,2,2,4,Single Family,2015,Low,310000,0.05
+17,Urban,850,14,7,3,1,1,3,Apartment,2007,Moderate,230000,0.04
+18,Rural,1700,10,1,4,3,3,5,Single Family,2012,Low,270000,0.06
+19,Suburban,1450,19,9,1,2,2,4,Single Family,2002,Low,325000,0.07
+20,Urban,975,5,0,2,1,3,4,Townhouse,2016,High,290000,0.03
+21,Suburban,1350,6,2,3,2,2,4,Single Family,2016,Low,305000,0.05
+22,Urban,800,17,8,1,2,1,3,Apartment,2004,Moderate,218000,0.04
+23,Rural,1650,8,0,3,2,3,5,Single Family,2013,Low,275000,0.06
+24,Suburban,1425,23,13,2,3,2,3,Single Family,1998,Low,320000,0.07
+25,Urban,950,1,0,1,1,4,4,Townhouse,2020,High,280000,0.03
+26,Suburban,1180,11,4,2,2,1,4,Single Family,2011,Low,300000,0.05
+27,Urban,860,13,6,2,1,1,2,Apartment,2008,Moderate,225000,0.04
+28,Rural,1775,4,1,4,3,3,5,Single Family,2017,Low,265000,0.06
+29,Suburban,1520,18,10,1,2,2,3,Single Family,2003,Low,330000,0.07
+30,Urban,1000,3,0,2,2,3,4,Townhouse,2018,High,285000,0.03
+31,Suburban,1230,8,2,2,2,2,3,Single Family,2014,Low,305000,0.05
+32,Urban,820,16,7,1,1,1,2,Apartment,2005,Moderate,210000,0.04
+33,Rural,1720,9,0,4,2,4,4,Single Family,2011,Low,280000,0.06
+34,Suburban,1480,20,12,2,2,3,3,Single Family,2000,Low,335000,0.07
+35,Urban,990,4,0,3,1,3,5,Townhouse,2017,High,295000,0.03
+36,Suburban,1360,5,1,3,2,1,4,Single Family,2016,Low,310000,0.05
+37,Urban,845,15,8,1,2,1,3,Apartment,2006,Moderate,220000,0.04
+38,Rural,1675,7,1,4,3,3,5,Single Family,2014,Low,270000,0.06
+39,Suburban,1395,22,13,1,3,2,3,Single Family,1999,Low,320000,0.07
+40,Urban,960,2,0,1,1,3,4,Townhouse,2019,High,280000,0.03
+41,Suburban,1265,10,3,2,2,2,3,Single Family,2012,Low,300000,0.05
+42,Urban,830,17,6,2,1,1,2,Apartment,2004,Moderate,215000,0.04
+43,Rural,1740,6,0,3,2,4,4,Single Family,2015,Low,285000,0.06
+44,Suburban,1510,21,11,1,2,2,3,Single Family,2001,Low,330000,0.07
+45,Urban,1010,3,0,2,2,3,4,Townhouse,2018,High,290000,0.03
+46,Suburban,1280,7,2,3,2,2,4,Single Family,2014,Low,305000,0.05
+47,Urban,850,14,7,2,1,1,3,Apartment,2007,Moderate,220000,0.04
+48,Rural,1690,8,1,4,2,3,5,Single Family,2013,Low,275000,0.06
+49,Suburban,1420,19,10,2,2,3,3,Single Family,2002,Low,325000,0.07
+50,Urban,970,5,0,1,1,3,4,Townhouse,2016,High,285000,0.03
+51,Suburban,1310,6,1,3,2,1,4,Single Family,2015,Low,310000,0.05
+52,Urban,840,18,9,1,2,1,3,Apartment,2003,Moderate,230000,0.04
+53,Rural,1660,5,0,3,3,4,5,Single Family,2016,Low,260000,0.06
+54,Suburban,1455,24,14,2,3,2,3,Single Family,1997,Low,335000,0.07
+55,Urban,925,1,0,2,1,4,4,Townhouse,2020,High,275000,0.03
+56,Suburban,1190,12,4,2,2,1,4,Single Family,2010,Low,300000,0.05
+57,Urban,860,13,5,2,1,1,2,Apartment,2008,Moderate,225000,0.04
+58,Rural,1775,4,0,4,3,3,5,Single Family,2017,Low,265000,0.06
+59,Suburban,1520,18,11,1,2,2,3,Single Family,2003,Low,330000,0.07
+60,Urban,1000,3,0,2,2,3,4,Townhouse,2018,High,285000,0.03
+61,Suburban,1225,9,2,2,2,2,3,Single Family,2012,Low,305000,0.05
+62,Urban,815,16,6,1,1,1,2,Apartment,2005,Moderate,210000,0.04
+63,Rural,1715,10,1,4,2,4,4,Single Family,2011,Low,280000,0.06
+64,Suburban,1475,20,12,2,2,3,3,Single Family,2000,Low,335000,0.07
+65,Urban,985,4,0,3,1,3,5,Townhouse,2017,High,295000,0.03
+66,Suburban,1370,5,1,3,2,1,4,Single Family,2016,Low,310000,0.05
+67,Urban,850,15,7,1,2,1,3,Apartment,2006,Moderate,220000,0.04
+68,Rural,1680,7,1,4,3,3,5,Single Family,2014,Low,270000,0.06
+69,Suburban,1400,22,13,1,3,2,3,Single Family,1999,Low,320000,0.07
+70,Urban,955,2,0,1,1,3,4,Townhouse,2019,High,280000,0.03
+71,Suburban,1270,10,3,2,2,2,3,Single Family,2011,Low,300000,0.05
+72,Urban,825,17,8,1,2,1,2,Apartment,2004,Moderate,215000,0.04
+73,Rural,1735,6,0,3,2,4,4,Single Family,2015,Low,285000,0.06
+74,Suburban,1505,21,11,1,2,2,3,Single Family,2001,Low,330000,0.07
+75,Urban,1020,3,0,2,2,3,4,Townhouse,2018,High,290000,0.03
+76,Suburban,1290,7,2,3,2,2,4,Single Family,2014,Low,305000,0.05
+77,Urban,855,14,7,2,1,1,3,Apartment,2007,Moderate,220000,0.04
+78,Rural,1700,8,1,4,3,3,5,Single Family,2013,Low,275000,0.06
+79,Suburban,1430,19,10,2,2,3,3,Single Family,2002,Low,325000,0.07
+80,Urban,965,5,0,1,1,3,4,Townhouse,2016,High,285000,0.03
+
