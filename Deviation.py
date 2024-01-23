@@ -7,9 +7,14 @@ from sklearn.metrics import mean_squared_error, r2_score
 # Load your data
 df = pd.read_csv('real_estate_data.csv')
 
+# One-hot encode the categorical variables
+df_encoded = pd.get_dummies(df, drop_first=True)
+
 # Preprocessing
-X = df.drop('ROI', axis=1)
-y = df['ROI']
+X = df_encoded.drop('ROI', axis=1)
+y = df_encoded['ROI']
+
+# Standardize the features
 scaler = StandardScaler()
 X_scaled = scaler.fit_transform(X)
 
@@ -24,8 +29,15 @@ rf_model.fit(X_train, y_train)
 y_pred = rf_model.predict(X_test)
 
 # Calculating deviations
-deviations = y_pred - y_test
-deviation_df = pd.DataFrame({'Actual': y_test, 'Predicted': y_pred, 'Deviation': deviations})
+deviations = y_test - y_pred
 
-# Display the deviations for each prediction
+# Create a DataFrame for easier visualization
+deviation_df = pd.DataFrame({
+    'Data Point Index': y_test.index,
+    'Actual': y_test,
+    'Predicted': y_pred,
+    'Deviation': deviations
+})
+
+# Print the DataFrame
 print(deviation_df)
