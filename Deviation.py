@@ -39,5 +39,12 @@ deviation_df = pd.DataFrame({
     'Deviation': deviations
 })
 
+# Sort the DataFrame by Deviation in ascending order
+deviation_df = deviation_df.sort_values(by='Deviation', ascending=True)
+
+# Print the sorted DataFrame
+print(deviation_df)
+
+
 # Print the DataFrame
 print(deviation_df)
