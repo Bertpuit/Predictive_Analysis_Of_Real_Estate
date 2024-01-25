@@ -1,0 +1,33 @@
+Imported necessary libraries such as pandas, pandas_datareader, matplotlib, datetime, and yfinance.
+Defined ticker symbols for the 2-year ("DGS2") and 10-year ("DGS10") Treasury bond yields, and other indices like the S&P 500 ("^GSPC") and Case-Shiller Index ("CSUSHPINSA").
+Set a date range for data collection, typically from January 1, 2000, to January 1, 2024.
+Fetching Data:
+
+Utilized pandas_datareader to fetch data for the 2-year and 10-year Treasury bond yields from the Federal Reserve Economic Data (FRED).
+Used yfinance to download the S&P 500 data.
+Ensured data alignment on the same dates for yield data and S&P 500 Index.
+Data Cleaning and Preprocessing:
+
+Dropped rows with NaN values in the Treasury yield datasets to ensure data integrity.
+Calculated the yield spread by subtracting the 2-year yield from the 10-year yield.
+Normalized the S&P 500 data and yield spread for comparison purposes.
+Resampled the data to a monthly frequency to standardize the time frames across different datasets.
+Checked and handled any missing values or discrepancies in the dates across the datasets.
+Merging and Aligning Data:
+
+Merged the yield data with the Case-Shiller Index data based on the date to analyze them together.
+Ensured the indices of both the yield data and Case-Shiller data were aligned, converting them to the same date format if necessary.
+Data Exploration:
+
+Generated descriptive statistics to understand the distributions, averages, and other statistical measures.
+Explored correlations between the yield spread, S&P 500, and Case-Shiller Index.
+Created scatter plots and histograms to visualize relationships and distributions.
+Visualization:
+
+Used matplotlib to create visualizations such as line plots, bar charts, and histograms.
+Plotted the yield curve spread over time, as well as its relation to the S&P 500 and Case-Shiller Index.
+Created separate plots for clarity and better data representation.
+Additional Analysis:
+
+Conducted further exploration by creating moving averages of the yields to observe long-term trends.
+Investigated specific periods of interest, like times of economic downturn or growth, to see how they affected the bond market and other indices.
