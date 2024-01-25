@@ -86,7 +86,29 @@ This is analyzed by comparing the yield spread with the Case-Shiller Home Price 
 
 ![Yield Spread & Case-Shiller](YC9.png)
 
+1. **What role does the yield curve play in financial forecasting?**
+   - *Answer*: The yield curve helps predict economic growth. An upward slope often means expansion, while an inverted curve can signal a recession.
 
+2. **Why is the spread between 2-year and 10-year Treasury bonds significant?**
+   - *Answer*: This spread reflects investor expectations about the economy. A widening spread suggests optimism, while narrowing indicates potential economic downturns.
+
+3. **Can the yield curve predict stock market trends?**
+   - *Answer*: Yes, to an extent. For example, an inverted yield curve is often seen as a caution signal for the stock market, indicating potential downturns.
+
+4. **How does an inverted yield curve relate to economic recessions?**
+   - *Answer*: Historically, an inverted yield curve has been a precursor to recessions, signaling a potential economic slowdown.
+
+5. **What factors influence the yield curve's shape?**
+   - *Answer*: Inflation expectations, economic growth, and the Federal Reserve's policies are key influencers.
+
+6. **How reliable is the yield curve as an economic indicator?**
+   - *Answer*: It's not infallible, but it's a widely respected indicator that combines various market expectations.
+
+7. **What insights can a student gain from studying the yield curve?**
+   - *Answer*: It's a great way to understand market sentiments and economic forecasting, offering insights into investment strategies and risk management.
+
+8. **As a student, how can I apply knowledge of the yield curve in real-world scenarios?**
+   - *Answer*: Understanding the yield curve can aid in making informed decisions about investments, savings, and understanding the broader economic environment.
 
 ## Conclusion
 This project highlights the predictive power of the yield curve on economic cycles and its impact on key asset classes. Our findings serve as a valuable tool for investors in managing portfolio risks and timing investment decisions.
