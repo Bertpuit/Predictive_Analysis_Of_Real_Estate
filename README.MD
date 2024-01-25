@@ -33,6 +33,8 @@ These insights suggest that monitoring yield curve inversions can be crucial for
 
 ## Visualizations
 Included are time series plots that illustrate the relationships between the yield curve, S&P 500, and real estate markets.
+![Yield Spread Over Time](YC1.pg.png)
+
 
 ## Conclusion
 This project highlights the predictive power of the yield curve on economic cycles and its impact on key asset classes. Our findings serve as a valuable tool for investors in managing portfolio risks and timing investment decisions.
