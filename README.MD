@@ -33,7 +33,7 @@ These insights suggest that monitoring yield curve inversions can be crucial for
 
 ## Visualizations
 Included are time series plots that illustrate the relationships between the yield curve, S&P 500, and real estate markets.
-![Yield Spread Over Time](YC1.pg.png)
+![Yield Spread Over Time](YC1.png)
 
 
 ## Conclusion
