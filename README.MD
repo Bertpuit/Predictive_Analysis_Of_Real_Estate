@@ -86,29 +86,29 @@ This is analyzed by comparing the yield spread with the Case-Shiller Home Price 
 
 ![Yield Spread & Case-Shiller](YC9.png)
 
-1. **What role does the yield curve play in financial forecasting?**
-   - *Answer*: The yield curve helps predict economic growth. An upward slope often means expansion, while an inverted curve can signal a recession.
+1. **What does a narrowing spread between 2 and 10-year bonds indicate about future stock market trends?**
+   - *Answer*: A narrowing spread often hints at economic uncertainty, potentially leading to cautious or bearish trends in the stock market.
 
-2. **Why is the spread between 2-year and 10-year Treasury bonds significant?**
-   - *Answer*: This spread reflects investor expectations about the economy. A widening spread suggests optimism, while narrowing indicates potential economic downturns.
+2. **How has the spread historically correlated with real estate market movements?**
+   - *Answer*: An increasing spread is typically seen during economic growth, often corresponding with rising real estate prices. Conversely, a decreasing spread can signal a slowing economy and stagnating or falling real estate prices.
 
-3. **Can the yield curve predict stock market trends?**
-   - *Answer*: Yes, to an extent. For example, an inverted yield curve is often seen as a caution signal for the stock market, indicating potential downturns.
+3. **What have been the stock market responses to an inverted yield curve?**
+   - *Answer*: An inverted yield curve has often preceded stock market downturns, as it indicates investor skepticism about future economic growth.
 
-4. **How does an inverted yield curve relate to economic recessions?**
-   - *Answer*: Historically, an inverted yield curve has been a precursor to recessions, signaling a potential economic slowdown.
+4. **Can we predict real estate market crashes by analyzing bond yield spreads?**
+   - *Answer*: While not a standalone predictor, significant shifts in the yield curve can serve as an early warning sign, alongside other economic indicators, for potential adjustments in the real estate market.
 
-5. **What factors influence the yield curve's shape?**
-   - *Answer*: Inflation expectations, economic growth, and the Federal Reserve's policies are key influencers.
+5. **What patterns emerge in the S&P 500 during periods of yield curve flattening?**
+   - *Answer*: Yield curve flattening, especially when heading towards inversion, often correlates with volatility or downturns in the S&P 500.
 
-6. **How reliable is the yield curve as an economic indicator?**
-   - *Answer*: It's not infallible, but it's a widely respected indicator that combines various market expectations.
+6. **How does a steepening yield curve affect real estate investments?**
+   - *Answer*: A steepening yield curve, suggesting economic growth and potentially higher inflation, often aligns with increasing demand and prices in the real estate market.
 
-7. **What insights can a student gain from studying the yield curve?**
-   - *Answer*: It's a great way to understand market sentiments and economic forecasting, offering insights into investment strategies and risk management.
+7. **Are there any consistent lag times between yield curve movements and market reactions?**
+   - *Answer*: Yes, there's often a lag, typically spanning several months to over a year, between significant changes in the yield curve and noticeable effects in stock and real estate markets.
 
-8. **As a student, how can I apply knowledge of the yield curve in real-world scenarios?**
-   - *Answer*: Understanding the yield curve can aid in making informed decisions about investments, savings, and understanding the broader economic environment.
+8. **What role does Federal Reserve policy play in this relationship?**
+   - *Answer*: Federal Reserve policies directly influence short-term rates, affecting the yield curve. These policies, in turn, impact investor confidence and market trends in both stocks and real estate.
 
 ## Conclusion
 This project highlights the predictive power of the yield curve on economic cycles and its impact on key asset classes. Our findings serve as a valuable tool for investors in managing portfolio risks and timing investment decisions.
