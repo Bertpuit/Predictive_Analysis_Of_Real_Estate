@@ -41,6 +41,7 @@ Included are time series plots that illustrate the relationships between the yie
 ![Bar Chart of Average Yields by Year](YC6.png)
 ![Line Plot of Moving Averages of the Yields](YC7.png)
 ![Yield Spread & S&P 500](YC8.png)
+![Yield Spread & Case-Shiller](YC9.png)
 
 
 ## Conclusion
