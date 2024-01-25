@@ -49,7 +49,3 @@ This project highlights the predictive power of the yield curve on economic cycl
 
 ## Storytelling Through Data
 Our narrative weaves through the realms of economics and finance, revealing how abstract indicators like the yield curve can profoundly impact real-world asset markets. This journey through data uncovers the interconnectedness of economic indicators and investment risk, offering a roadmap for navigating the complexities of financial markets.
-
----
-
-For more details, please refer to our Jupyter Notebooks and data visualizations included in this repository.
