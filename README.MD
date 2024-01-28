@@ -1,5 +1,16 @@
 # Yield Curve Analysis and Its Impact on S&P 500 and Real Estate Markets
 
+## Code Files
+### 2-10 Yield Graphs
+[2-10 Yield Graphs Notebook](https://github.com/jancichocki/Predictive_Analysis_Of_Real_Estate/blob/main/2_10_Graphs.ipynb)
+
+### S&P 500 Comparison
+[S&P 500 Comparison Notebook](https://github.com/jancichocki/Predictive_Analysis_Of_Real_Estate/blob/main/Yield_Curve_SP500.ipynb)
+
+### Case–Shiller Comparison
+[Case–Shiller Comparison Notebook](https://github.com/jancichocki/Predictive_Analysis_Of_Real_Estate/blob/main/Yield_Curve_SP500.ipynb)
+
+
 ## Overview
 This project explores the relationship between the yield curve (specifically the spread between 2-year and 10-year Treasury bond yields), the S&P 500 Index, and the Case-Shiller Home Price Index. We investigate how the un-inversion of the yield curve historically correlates with downturns in asset prices, including stock and housing markets.
 
